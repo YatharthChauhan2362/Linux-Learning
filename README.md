@@ -5,5 +5,5 @@ Learn Linux Commands, Shell Scripting, Devops, File System, Package Management, 
 # Content
 
 - [Introduction](#introduction)
-  - [Linux?](#https://github.com/YatharthChauhan2362/Linux-Learning/blob/main/Introduction.md#linux?)
+  - [Linux?](#https://github.com/YatharthChauhan2362/Linux-Learning/blob/main/Introduction.md#linux)
   - [Installation](https://github.com/YatharthChauhan2362/Linux-Learning/blob/main/Introduction.md#installation-on-vmware)
