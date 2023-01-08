@@ -1,6 +1,6 @@
 # Introduction
 
-## About Linux
+## Linux
 
 - Linux is a free and open-source operating system that was developed in the early 1990s by Linus Torvalds.
 - It is based on the Unix operating system and is used on a wide variety of computer hardware, including desktop computers, servers, and mobile devices.
