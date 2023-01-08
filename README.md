@@ -4,7 +4,7 @@ Learn Linux Commands, Shell Scripting, Devops, File System, Package Management, 
 # Content 
 
 - [Introduction](#introduction)
-  - [What is Linux?](#What-is-Linux?)
+  - [What is Linux?](#what-is-linux?)
   - [Commands](#commands)
 
 # Introduction
