@@ -15,8 +15,8 @@ Learn Linux Commands, Shell Scripting, Devops, File System, Package Management, 
 
 - [Tasks](https://github.com/YatharthChauhan2362/Linux-Learning/blob/main/Tasks.md#tasks)
 
-  -[Hostname and host file configuration](https://github.com/YatharthChauhan2362/Linux-Learning/blob/main/Tasks.md#hostname-and-host-file-configuration)
+  - [Hostname and host file configuration](https://github.com/YatharthChauhan2362/Linux-Learning/blob/main/Tasks.md#hostname-and-host-file-configuration)
 
-  -[Configuring apache server](https://github.com/YatharthChauhan2362/Linux-Learning/blob/main/Tasks.md#configuring-apache-server)
+  - [Configuring apache server](https://github.com/YatharthChauhan2362/Linux-Learning/blob/main/Tasks.md#configuring-apache-server)
 
-  -[Software Installation](https://github.com/YatharthChauhan2362/Linux-Learning/blob/main/Tasks.md#software-installation)
+  - [Software Installation](https://github.com/YatharthChauhan2362/Linux-Learning/blob/main/Tasks.md#software-installation)
