@@ -12,7 +12,7 @@ Learn Linux Commands, Shell Scripting, Devops, File System, Package Management, 
 - [File Hierarchy Standard (FHS)](https://github.com/YatharthChauhan2362/Linux-Learning/blob/main/File%20Hierarchy%20Standard%20(FHS).md#file-hierarchy-standard-fhs)
 
 
-- [Commands]()
+- [Basic Commands](#basic-commands)
 
 - [Tasks]()
   -[Hostname and host file configuration]()
