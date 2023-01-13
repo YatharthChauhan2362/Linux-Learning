@@ -2,20 +2,20 @@
 
 ## Hostname and host file configuration
 
-*Change Host Name*
+_Change Host Name_
 
     sudo su
     cd /etc
     gedit hostname
     reboot
 
-*Change Host File Configuration*
+_Change Host File Configuration_
 
     sudo su
     cd /etc
     gedit hosts
 
-*Access Website*
+_Access Website_
 
     sudo su
     cd /etc
@@ -25,7 +25,7 @@
 
 Apache server stored location
 
-    sudo su 
+    sudo su
 
     cd /var/wwww/html/
 
@@ -72,10 +72,3 @@ Through github:
     cd software-name
 
     ./install
-
-## Error resolving apt
-
-    sudo su
-
-    
-
